@@ -1,4 +1,4 @@
-# Turkish Post Tagging Model
+# Turkish Pos Tagging Model
 
 ## How to Build
 
